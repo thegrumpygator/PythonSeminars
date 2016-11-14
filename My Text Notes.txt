@@ -1,0 +1,54 @@
+Pandas from the inside
+===
+
+/Pandas folder on the desktop
+PyDataDC2016-PandasFromTheInside-master
+
+Parallel Python
+===
+
+Modern NLP in Python
+===
+http://nbviewer.jupyter.org/github/skipgram/modern-nlp-in-python/tree/master/executable/
+
+Interactive MPL
+===
+
+
+
+
+Make sure to pull the latest version of Simmons' slides from Github.
+
+Learn "axis"
+
+Get the jupyter notebook
+
+
+
+
+
+
+Parallel Computing in python
+
+Map == one function to a lot of things
+
+3hr version is available on youtube from scipy conf.
+
+
+
+The "submit" stuff is perfect for parallelizing my t-test code…
+
+
+
+Figure out how to run bash in win10?
+
+
+
+Activate <env> before running ipython …
+
+Learn MatPlotLib
+
+
+
+
+Make sure to learn to use conda export -f … so that you can snapshot your environment when you get you code running so that you can reproduce your results in the future. KEY!!!
